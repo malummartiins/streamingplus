@@ -18,5 +18,5 @@ https://streamingplus-tau.vercel.app/
 | Botão azul       | ![#167BF7](https://via.placeholder.com/10/167BF7?text=+) #167BF7 |
 | Cinza secundario      | ![#C0C0C0](https://via.placeholder.com/10/C0C0C0?text=+) #C0C0C0 |
 | Background       | ![#00030C](https://via.placeholder.com/10/00030C?text=+) #00030C |
-| Azul hoder       | ![#3c92fa](https://via.placeholder.com/10/3c92fa?text=+) #3c92fa |
+| Azul hover       | ![#3c92fa](https://via.placeholder.com/10/3c92fa?text=+) #3c92fa |
 
